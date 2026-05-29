@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productuecrypt",
+        "uuid": 32803438,
+        "checksum": "zqux3j"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
